@@ -10,4 +10,4 @@ if(num > num1 || num1 > num)
 else
 {
     console.log("Equal")
-}
+} 
